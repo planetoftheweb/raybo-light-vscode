@@ -1,0 +1,21 @@
+{
+    "name": "raybo-light",
+    "displayName": "raybo-light",
+    "description": "A light, but easy to read and theme specially when writing markdown or recording video tutorials.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Raybo Light",
+                "uiTheme": "vs",
+                "path": "./themes/Raybo Light-color-theme.json"
+            }
+        ]
+    }
+}
