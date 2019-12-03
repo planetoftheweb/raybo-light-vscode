@@ -15,17 +15,10 @@
       }
     },
     {
-      "name": "Invalid - Illegal",
-      "scope": "invalid.illegal",
-      "settings": {
-        "foreground": "#d33682"
-      }
-    },
-    {
       "name": "Operators",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#af171770"
+        "foreground": "#888585"
       }
     },
     {
@@ -53,7 +46,7 @@
       "name": "Variables",
       "scope": ["variable", "support.variable"],
       "settings": {
-        "foreground": "#1e3758"
+        "foreground": "#1478a7"
       }
     },
     {
@@ -118,7 +111,7 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#777777"
+        "foreground": "#838383"
       }
     },
     {
