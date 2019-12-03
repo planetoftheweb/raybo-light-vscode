@@ -2,7 +2,7 @@
     "name": "raybo-light",
     "displayName": "raybo-light",
     "description": "A light, but easy to read and theme specially when writing markdown or recording video tutorials.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.40.0"
     },
