@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-A simple, easy to use Visual Studio Code Color Theme. Light, but with a gray/beige background, darker colors with good contrast. My goal is to use this when recording tutorials, so I don't want distracting or wild colors. Definitely a work in progress.
+A light, easy on the eyes Visual Studio Code Color Theme. Light with a gray/beige background, preferring darker colors with good contrast. My goal is to use this when recording tutorials, so I don't want distracting or wild colors. Definitely a work in progress.
 
 ## Installation
 
