@@ -2,7 +2,7 @@
   "name": "raybo-light",
   "displayName": "raybo-light",
   "description": "A light, but easy to read theme. Designed for recording video tutorials.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "planetoftheweb",
   "engines": {
     "vscode": "^1.40.0"
