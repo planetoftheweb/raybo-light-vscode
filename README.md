@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "raybo-light"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## Raybo Light
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![screenshot](./screenshot.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+A simple, easy to use Visual Studio Code Color Theme. Light, but with a gray/beige background, darker colors with good contrast. My goal is to use this when recording tutorials, so I don't want distracting or wild colors.
